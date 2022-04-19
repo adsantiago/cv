@@ -47,7 +47,7 @@ h3{
 .left-color{
     color:  #a6b6c3;
 }
-.fa-mobile-alt, .fa-map-marker-alt, .fa-envelope, .fa-github{
+.fa-mobile-alt, .fa-map-marker-alt, .fa-envelope, .fa-github, .fa-linkedin{
     color:white;
 }
 .fa-circle{
@@ -59,4 +59,7 @@ h3{
 .text-icon{
     color: #cad7e0;
     display: inline-block;
+}
+a, a:active{
+    text-decoration: none;
 }
